@@ -1,0 +1,69 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+.container-full {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: white;
+}
+
+img {
+  width: 90px;
+}
+
+.avatar {
+  width: 30px;
+  padding-top: 0px;
+}
+
+.topnav{
+  background: white;
+  height: 40px;
+  border-radius: 2px;
+  border-color: grey;
+}
+
+.hor {
+  float: center;
+  padding: 10px;
+  color: grey;
+  font: arial;
+}
+
+#banner {
+  padding:0 20px;
+  background-color: #eaecef;
+}
+
+#banner img {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.thumbnail {
+  width: 150px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h5 {
+  padding-top: 15px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+p {
+  color: #79abfc;
+  font-size: 12px;
+}
+
+code {
+  color: black;
+  background: white;
+  padding: 2px 5px;
+  border: 1px solid black;
+}
